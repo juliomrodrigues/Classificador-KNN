@@ -1,6 +1,6 @@
 # Classificador-KNN
 ### Descrição
-Treinando um modelo de classificação a e aplicando em uma base de dados para classificar registros e analisar os resultados(Censo de 1994 - EUA).
+Treinando um modelo de classificação a e aplicando em uma base de dados para classificar registros e compartilhar os resultados(Censo de 1994 - EUA).
 
 O objetivo é prever se uma pessoa possui renda anual <= ou > 50 mil dólares por ano.
 
