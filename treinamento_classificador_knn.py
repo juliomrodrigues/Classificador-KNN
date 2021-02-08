@@ -56,3 +56,4 @@ resultados = np.asarray(resultados)
    
 print(f'Média = {resultados.mean()}')
 print(f'Desvio Padrão = {resultados.std()}')
+
