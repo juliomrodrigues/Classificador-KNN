@@ -48,7 +48,7 @@ classificador_knn = pickle.load(open('classificador_knn.sav', 'rb'))
 4. Pronto, agora o classficador está pronto para ser usado.
 5. Se desejar treinar um novo classificador, faça o download do arquivo de treinamento e execute novas combinações de pré-processamentos e parâmetros [aqui](https://github.com/juliomrodrigues/Classificador-KNN/blob/main/treinamento_classificador_knn.py).
 
-#### Outros Classificadores:
+#### Outros Classificadores
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
 - [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
 - [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
